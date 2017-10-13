@@ -2,7 +2,7 @@
 
 
 ## Introduction
-In this post we looked at using the Keras library to develop a multilayer perceptron model for image recognition that was able to get  97.5%97.5%  accuracy on the MNIST data set. 
+In this post we looked at using the Keras library to develop a multilayer perceptron model for image recognition that was able to get  97.5% accuracy on the MNIST data set. 
 
 
 ## Requirements
