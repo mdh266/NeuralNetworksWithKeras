@@ -9,3 +9,5 @@ In this post we looked at using the Keras library to develop a multilayer percep
 - Python 3.5
 - <a href="https://www.tensorflow.org/">TensorFlow</a>
 - <a href="https://keras.io//">Keras</a>
+- <a href="http://www.numpy.org/">NumPy</a>
+- <a href="https://matplotlib.org/">Matplotlib</a>
